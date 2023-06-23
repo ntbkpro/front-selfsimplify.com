@@ -1,0 +1,4 @@
+.mobileContainer {
+    display: flex;
+    flex-direction: column;
+}
