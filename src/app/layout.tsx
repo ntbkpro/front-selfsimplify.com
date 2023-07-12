@@ -6,7 +6,7 @@ import Navbar from '@/components/navbar/navbar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'selfsimplify.com',
+  title: 'ntbk.pro - notes for the active',
   description: 'Smart notebook for the active and growing.',
 }
 
